@@ -5,7 +5,7 @@ If you need to get in contact with us for any reason in regards to our apps feel
 
 
 
-## Patagonia Soundscapes Privacy Policy
+## Patagonia Soundscapes && Once Again Privacy Policy
 Privacy Policy
 Creative Jaguar LLC built the Patagonia Soundscape app as a Free app with a plan to make it a Freemium app. This SERVICE is provided by 
 at no cost and is intended for use as is.
@@ -56,7 +56,7 @@ Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-02-06
+This policy is effective as of 2025-12-27
 
 Contact Us
 
